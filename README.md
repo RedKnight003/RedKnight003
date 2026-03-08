@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**RedKnight003/RedKnight003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning web development and building small projects to improve my skills.
 
-Here are some ideas to get you started:
+## Current Focus
+- HTML
+- CSS
+- Responsive layouts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Journey
+I enjoy building practical projects and improving them step by step.
+
+## Goals
+- Build better web projects
+- Learn modern frontend tools
+- Collaborate with other developers
